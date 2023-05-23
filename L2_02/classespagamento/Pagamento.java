@@ -1,5 +1,8 @@
 package L2_02.classespagamento;
-
+/*
+ * Aluno: Herick de Lima Carneiro – Matricula: 20220005754
+ * Aluno: Weslley Rhaonny de Lima Freitas – Matricula: 20220155170
+ */
 import L2_02.interfaces.IPagamento;
 
 import java.time.LocalDate;

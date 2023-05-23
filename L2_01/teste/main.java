@@ -1,5 +1,8 @@
 package L2_01.teste;
-
+/*
+ * Aluno: Herick de Lima Carneiro – Matricula: 20220005754
+ * Aluno: Weslley Rhaonny de Lima Freitas – Matricula: 20220155170
+ */
 import L2_01.dominio.Aluno;
 import L2_01.dominio.Escola;
 import L2_01.dominio.Pessoa;
